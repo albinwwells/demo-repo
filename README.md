@@ -1,3 +1,3 @@
 # demo-repo
 
-### My first git commit
+My first git commit
