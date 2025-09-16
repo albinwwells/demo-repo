@@ -1,3 +1,3 @@
 # demo-repo
 
-My first git commit
+This is the second change to the README file
